@@ -1,3 +1,5 @@
+//Faizan Ahmad
+//241608482
 #include <iostream> // Include the necessary header files
 #include <cstdlib>
 #include "IntComplex.h"
