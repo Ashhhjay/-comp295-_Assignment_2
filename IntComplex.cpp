@@ -1,3 +1,5 @@
+//Faizan Ahmad
+//241608482
 #include "IntComplex.h"
 #include <iostream>
 using namespace std;
