@@ -2,7 +2,7 @@
 //241608482
 #include "FloatComplex.h"
 #include <iostream>
-using namespace std;
+using namespace std; 
 
 FloatComplex::FloatComplex() : IntComplex(), real(0.0f), imaginary(0.0f) {}
 // Default constructor that initializes the base class (IntComplex) and sets the real and imaginary parts to zero
