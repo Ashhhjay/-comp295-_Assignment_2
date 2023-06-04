@@ -5,7 +5,7 @@
 using namespace std;
 
 IntComplex::IntComplex() : real(0), imaginary(0) {}
-// Default constructor that initializes both real and imaginary parts to zero
+// Default constructor that initializes both real and imaginary parts to zero 
 
 IntComplex::IntComplex(int realPart, int imaginaryPart) : real(realPart), imaginary(imaginaryPart) {}
 // Constructor with parameters that sets the values of real and imaginary parts
